@@ -1,4 +1,4 @@
-const wallets[""]
+const wallets = [""]
 
 const scan = ["https://api.arbiscan.io/api?module=account&action=txlist&address=", "https://api-optimistic.etherscan.io/api?module=account&action=txlist&address=",
 "https://api-nova.arbiscan.io/api?module=account&action=txlist&address="];
